@@ -187,19 +187,19 @@ footer{
 }
 
 .logo1{
-    background-image: url(czzlogo.png);
-    background-size: cover;
-    height: 50px;
+    font-size: larger;
+    height: 100px;
     width: 100%;
 
 }
 
-.border1{
-    border: 1.5px solid transparent;
+.links{
+    text-decoration: none;
+    color: #fff;
 }
 
-.border1:hover{
-    border: 1.5px solid white;
+.back-to-top{
+    font-size: larger;
 }
 
 .foot-panel3{
